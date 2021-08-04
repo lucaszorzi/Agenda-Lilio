@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e05f84-07f1-4110-9e11-b8fa488dc6f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agenda/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agendalilio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/agendalilio/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agendalilio/production.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agendalilio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/agendalilio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W2HbZ0Yy5XELKpVifKN5eJ91Px" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/django-deploy/djangoaws" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas Zorzi\agenda-lilio-project\agendalilio\agendalilio" />
+      <recent name="C:\Users\Lucas Zorzi\agenda-lilio-project\agendalilio\agenda" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e05f84-07f1-4110-9e11-b8fa488dc6f5" name="Default Changelist" comment="" />
+      <created>1578340843713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578340843713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="56" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578427029692">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="125" y="56" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.800@62.0.1218.800" timestamp="1578427029692" />
+    <state x="430" y="204" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579015633189">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="430" y="204" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1218.800@62.0.1218.800" timestamp="1579015633189" />
+    <state x="194" y="255" key="FileChooserDialogImpl" timestamp="1579197501977">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="194" y="255" key="FileChooserDialogImpl/62.0.1218.800@62.0.1218.800" timestamp="1579197501977" />
+    <state x="172" y="43" key="SettingsEditor" timestamp="1578427325822">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="172" y="43" key="SettingsEditor/62.0.1218.800@62.0.1218.800" timestamp="1578427325822" />
+    <state x="366" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579704070481">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="366" y="225" key="com.intellij.ide.util.TipDialog/62.0.1218.800@62.0.1218.800" timestamp="1579704070481" />
+  </component>
+</project>

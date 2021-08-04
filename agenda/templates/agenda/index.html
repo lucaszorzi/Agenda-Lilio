@@ -1,0 +1,19 @@
+{% extends "agenda/_layouts/base.html" %}
+
+{% load widget_tweaks %}
+
+{% block title %}Agenda Lilio{% endblock %}
+
+{% block conteudo %}
+
+    {% if not events %}
+        <p>Sem eventos</p>
+    {% else %}
+        <h3>Eventos:</h3>
+        {% for event in events %}
+            <p>{{ event.summary }} - {{event.start.dateTime}}</p>
+        {% endfor %}
+    {% endif %}
+
+
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "agenda/_layouts/base.html" %}
+
+{% load widget_tweaks %}
+
+{% block title %}Agenda Lilio{% endblock %}
+
+{% block conteudo %}
+
+    {% if messages %}
+        {% for message in messages %}
+            <div class="alert alert-success alert-dismissible">
+                <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-8">
+                {% if not events %}
+                    <p>Sem eventos</p>
+                {% else %}
+                    <h3>Eventos:</h3>
+                    {% for event in events %}
+                        <p>{{ event.name }} - Start: {{event.start_datetime}} - End: {{event.finish_datetime}} - <a href="/event/delete/{{ event.id }}">Excluir</a></p>
+                    {% endfor %}
+                {% endif %}
+            </div>
+            <div class="col-4">
+                <a href="{% url 'agenda:event_create' %}">Criar evento</a>
+            </div>
+        </div>
+    </div>
+
+
+{% endblock %}

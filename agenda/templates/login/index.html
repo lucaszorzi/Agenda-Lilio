@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% load socialaccount %}
+{% providers_media_js %}
+
+<head>
+    <meta charset="UTF-8">
+    <title>sdf</title>
+</head>
+<body>
+    <a href="{% provider_login_url 'google' %}">Google Connect</a>
+</body>
+</html>
